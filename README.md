@@ -14,7 +14,7 @@ Documentation for home-server. Every service listed is self-hosted + open-source
 * [Glance (dashboard)](https://github.com/glanceapp/glance): RSS feed, stock prices, basic server info, aggregated reddit feed, etc.
 * [Portainer](https://github.com/portainer/portainer): tracks status of installed docker containers
 * [Nextcloud](https://github.com/nextcloud/docker): self-hosted, open-source Google Drive alternative
-* [Mealie](https://github.com/mealie-recipes/mealie): scrapes websites for recipie information, saves recipies.
+* [Mealie](https://github.com/mealie-recipes/mealie): scrapes websites for recipie information, saves recipies
 * [Minecraft-Server](https://github.com/itzg/docker-minecraft-server): hosts minecraft server
 * [NGINX Proxy Manager](https://github.com/NginxProxyManager/nginx-proxy-manager): routes traffic and handles ssl
 * [Tailscale VPN](https://github.com/tailscale/tailscale): used for remote access to server (easier installation than wireguard)
