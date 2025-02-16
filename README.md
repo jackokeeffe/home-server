@@ -17,7 +17,7 @@ Documentation for my home-server. Every service listed is self-hosted + open-sou
 * [Mealie](https://github.com/mealie-recipes/mealie): scrapes websites for recipie information, saves recipies
 * [Minecraft-Server](https://github.com/itzg/docker-minecraft-server): hosts Minecraft server
 * [NGINX Proxy Manager](https://github.com/NginxProxyManager/nginx-proxy-manager): routes traffic and handles ssl
-* [Tailscale VPN](https://github.com/tailscale/tailscale): used for remote access to server (easier installation than wireguard)
+* [Tailscale VPN](https://github.com/tailscale/tailscale): used for remote access to server (easier installation than basic wireguard)
 * [Watchtower](https://github.com/containrrr/watchtower): automatically updates docker containers
 * [Hoarder](https://github.com/hoarder-app/hoarder): similar to Pintrest or Are.na; saves websites, images, videos, etc.
 * [UFW (uncomplicated firewall)](https://help.ubuntu.com/community/UFW): basic Ubuntu/Debian firewall, restricts port access for security
