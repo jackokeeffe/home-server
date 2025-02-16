@@ -1,5 +1,5 @@
 # home-server
-Documentation for home-server. Every service listed is self-hosted + open-source.
+Documentation for my home-server. Every service listed is self-hosted + open-source.
 
 ## Specs
 * CPU: AMD A10-9700E (Radeon R7, 10 Compute Cores: 4C+6G)
