@@ -23,6 +23,15 @@ Documentation for my home-server. Every service listed is self-hosted + open-sou
 
 ## To-Do
 * Authelia
-* [Logseq](https://github.com/logseq/logseq): alternative to Obsidian, better UI than Joplin
-* [Syncthing](https://github.com/syncthing/syncthing): self-hosted file sync tool (hoping to combine w/ Logseq)
 * AdGuard Home
+* Mullvad + Tailscale
+* Jellyfin Metadata
+* Self-Host Standard Notes
+* Backup Music folder 
+* Backup Calendar and Contacts
+* BIOS Restart (after power-outage)
+
+## Future:
+* Off-Site Server
+* Off-Site Backup
+* UPS
