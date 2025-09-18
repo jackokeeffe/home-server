@@ -20,6 +20,7 @@ Documentation for my home-server. Every service listed is self-hosted + open-sou
 * [Immich](https://github.com/immich-app/immich): self-hosted, open-source alternative to Google Photos
 
 ## To-Do
+* Authelia
 * [Logseq](https://github.com/logseq/logseq): alternative to Obsidian, better UI than Joplin
 * [Syncthing](https://github.com/syncthing/syncthing): self-hosted file sync tool (hoping to combine w/ Logseq)
 * Caddy (to replace NGINX)
