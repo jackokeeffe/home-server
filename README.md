@@ -15,14 +15,14 @@ Documentation for my home-server. Every service listed is self-hosted + open-sou
 * [UFW (uncomplicated firewall)](https://help.ubuntu.com/community/UFW): basic Ubuntu/Debian firewall, restricts port access for security
 * [Watchtower](https://github.com/containrrr/watchtower): automatically updates docker containers
 * [Portainer](https://github.com/portainer/portainer): tracks status of installed docker containers
+* NGINX Proxy Manager
 * [Glance (dashboard)](https://github.com/glanceapp/glance): RSS feed, stock prices, basic server info, aggregated reddit feed, etc.
 * [Nextcloud](https://github.com/nextcloud/docker): self-hosted, open-source Google Drive alternative
 * [Immich](https://github.com/immich-app/immich): self-hosted, open-source alternative to Google Photos
+* [Vaultwarden](https://github.com/dani-garcia/vaultwarden): self-hosted alternative to Bitwarden (password manager)
 
 ## To-Do
 * Authelia
 * [Logseq](https://github.com/logseq/logseq): alternative to Obsidian, better UI than Joplin
 * [Syncthing](https://github.com/syncthing/syncthing): self-hosted file sync tool (hoping to combine w/ Logseq)
-* Caddy (to replace NGINX)
 * AdGuard Home
-* [Vaultwarden](https://github.com/dani-garcia/vaultwarden): self-hosted alternative to Bitwarden (password manager)
